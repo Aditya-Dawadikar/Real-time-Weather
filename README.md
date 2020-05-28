@@ -1,5 +1,7 @@
 # Real-time-Weather
 
+https://aditya-dawadikar.github.io/Real-time-Weather/
+
 A simple webpage the display current weather report of any city around the world.
 The API send the data in JSON format similar to this
 ~~~~
