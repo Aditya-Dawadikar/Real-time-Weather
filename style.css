@@ -1,0 +1,136 @@
+*{
+	margin:0px;
+	padding:0px;
+	box-sizing: :border-box;
+}
+
+body{
+	font-family: 'Open Sans', sans-serif;
+}
+
+.container{
+	background: url(./bg.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	width:100%;
+	margin:100px 0px;
+}
+
+.current-location{
+	height:40px;
+	margin-left:auto;
+	margin-right:auto;
+	text-align: center;
+}
+
+.input{
+	text-align:center;
+	margin-top:100px;
+	margin-left:auto;
+	margin-right:auto; 
+}
+
+input{
+	opacity: 0.6;
+	border-top-left-radius:30px;
+	border-bottom-left-radius:30px; 
+}
+
+input:hover{ 
+	opacity: 0.8;
+}
+
+.button{
+	height:50px;
+	width:100px;
+	opacity: 0.6;
+	border-top-right-radius:30px;
+	border-bottom-right-radius:30px; 
+}
+
+.button:hover{
+	opacity: 0.8;
+}
+
+input[type="text"]{
+	width:60%;
+	padding:10px;
+	padding-left:30px;
+}
+
+input[type="submit"]{
+	width:100px;
+	padding:10px;
+}
+
+.report{
+	text-align:center; 
+}
+
+.row{
+	width:100%;
+	display:grid;
+	padding-left:27%;
+	padding-right:27%;
+}
+
+.block{
+	display: inline-grid;
+	background-color: white;
+	width:150px;
+	height:150px;
+	margin:10px ;
+	opacity:0.6;
+}
+
+.block:hover{
+	display: inline-grid;
+	background: white;
+	width:150px;
+	height:150px;
+	margin:10px ;
+	opacity:0.8;
+}
+
+.block p{
+	text-align: center;
+	margin:10px 10px;
+	font-size: 15px;
+	font-weight: bold;
+}
+
+.data{
+	color:black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
